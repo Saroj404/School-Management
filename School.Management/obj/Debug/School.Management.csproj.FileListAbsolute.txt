@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\School.Management\School.Management\bin\Debug\School.Management.exe.config
+C:\Users\user\source\repos\School.Management\School.Management\bin\Debug\School.Management.exe
+C:\Users\user\source\repos\School.Management\School.Management\bin\Debug\School.Management.pdb
+C:\Users\user\source\repos\School.Management\School.Management\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\School.Management\School.Management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\School.Management\School.Management\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\School.Management\School.Management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\School.Management\School.Management\obj\Debug\School.Management.csprojAssemblyReference.cache
+C:\Users\user\source\repos\School.Management\School.Management\obj\Debug\School.Management.Properties.Resources.resources
+C:\Users\user\source\repos\School.Management\School.Management\obj\Debug\School.Management.csproj.GenerateResource.cache
+C:\Users\user\source\repos\School.Management\School.Management\obj\Debug\School.Management.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\School.Management\School.Management\obj\Debug\School.Management.csproj.CopyComplete
+C:\Users\user\source\repos\School.Management\School.Management\obj\Debug\School.Management.exe
+C:\Users\user\source\repos\School.Management\School.Management\obj\Debug\School.Management.pdb
